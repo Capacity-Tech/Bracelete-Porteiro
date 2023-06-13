@@ -1,0 +1,4 @@
+# Campainha Portátil
+
+This project was made for the hearing-impaired audience considering the Smart Cities theme, it is a system that uses Arduino along with a wireless transmission that activates a circuit containing a RF receptor as soon as it detects any sound. Whenever this receptor receives a signal, it will activate an LED and a vibration motor that can be found in the same circuit as the receptor. This circuit that is capable to be activated can be carried by the individual to fulfill its role by providing visual and tactile stimulation, alerting that a sound has been detected in another environment, this makes any environment more accessible for this audience. 
+The main placement for the transmissor circuit is next to doorbells, to alert when there is a visitor, but it can be placed somewhere else and used in the same way.
